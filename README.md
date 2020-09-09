@@ -1,2 +1,3 @@
-# Robinhood-case-study
-Fintech Case study
+# FintechAL
+Fintech class key
+Getting better
