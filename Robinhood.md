@@ -1,6 +1,7 @@
 Robinhood
 # Fintech Investment management industry
-![Project Image](https://drive.google.com/drive/u/0/folders/1fxnOPmLVRi6VX7Pcd7l2tA6-yA4cUljJ)
+![Project Image](Robinhood.png)
+
 # Introduction
 Robinhood Market Inc. is an American born investment platform that offers free trading for everyone. It is located in Menlo Park California. Robinhood was founded in April, 2013 by Second generation from India, Baiju Bhatt and Bulgarian-born Vlad Tenev who were roommate and graduate from Stanford. 
 After graduation, both founders moved to NYC and built two finance companies, selling trading software to hedge funds. They soon learned that large wall Street firms paid effectively nothing to trade stocks, while charging consumers commission for every trade they made. Soon after, Baiju and Vlad decided that it was important to build products that would enable financial trading platform access to every consumer allow them to participate in their financial system with affordable subscription. 
